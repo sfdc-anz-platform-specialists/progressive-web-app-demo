@@ -1,0 +1,12 @@
+{
+  "name": "Progressive Web App",
+  "description": "A PWA using node.js and Express",
+  "repository": "https://github.com/sfdc-anz-platform-specialists/progressive-web-app-demo",
+  "keywords": ["node", "express", "static"],
+"env": {
+    "DARKSKY_API_KEY": {
+      "description": "Darksky API Key",
+      "value": "8066ab55f4238656c438612ef27b59a5"
+    }
+  }
+}
